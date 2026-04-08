@@ -1,6 +1,6 @@
 cask "unfold" do
-  version "2.1.0"
-  sha256 "d349b7cb93322894fc74c33347fa1af03c0d77ac734e9f1d523c360d9f0dbd94"
+  version "2.1.1"
+  sha256 "485711dc42b8ee6116808fa3fffb6d45f624abc4f96866c666f8b3e3410da3cb"
 
   url "https://flew.gg/unfold/Unfold.dmg",
     verified: "flew.gg"
