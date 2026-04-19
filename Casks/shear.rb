@@ -1,6 +1,6 @@
 cask "shear" do
-  version "1.2.0"
-  sha256 "a80e4613d82700aabbe9e1b148facd57ab1783eb7ed417d809217040e5047df0"
+  version "1.3.0"
+  sha256 "7323a058be91db523aec809737de7c9719a38abc303338627787aa86a82bc2f8"
 
   url "https://github.com/flewgg/Shear/releases/download/v#{version}/Shear.dmg",
     verified: "github.com/flewgg/Shear"
