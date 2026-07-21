@@ -6,7 +6,7 @@ cask "shear" do
     verified: "github.com/flewgg/Shear"
   name "Shear"
   desc "Cut and paste files in Finder using Windows/Linux like shorcuts"
-  homepage "https://flew.gg/projects/shear"
+  homepage "https://flew.gg/shear"
 
   auto_updates true
 
