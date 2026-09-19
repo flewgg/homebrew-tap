@@ -3,7 +3,7 @@ cask "splice" do
   sha256 :no_check
 
   url "https://flew.gg/splice/Splice.dmg"
-  name "Unfold"
+  name "Splice"
   desc "Emojis and GIFs, anywhere on your Mac."
   homepage "https://flew.gg/splice"
 
