@@ -1,9 +1,9 @@
 cask "eps-quick-look" do
-  version "1.0.1"
-  sha256 "018bd8d93de28b031f9bc1826b8355a3c9dfbda655ea51c49ec2f40972249df8"
+  version "1.1.0"
+  sha256 "6efc8202f6f29a0eefe418c2c2b04193cb7fc0a38fae65067a5db53fecdd45e4"
 
-  url "https://codeberg.org/flew/EPS-Quick-Look/releases/download/v#{version}/EPS%20Quick%20Look.dmg",
-      verified: "codeberg.org/flew/EPS-Quick-Look/"
+  url "https://github.com/flewgg/EPS-Quick-Look/releases/download/v#{version}/EPS-Quick-Look.dmg",
+      verified: "github.com/flewgg/EPS-Quick-Look"
   name "EPS Quick Look"
   desc "Quick Look preview extension for EPS files"
   homepage "https://flew.gg/eps-quick-look"
