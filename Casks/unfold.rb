@@ -1,5 +1,5 @@
 cask "unfold" do
-  version "3.1.0"
+  version "3.2.1"
   sha256 :no_check
 
   url "https://flew.gg/unfold/Unfold.dmg"
