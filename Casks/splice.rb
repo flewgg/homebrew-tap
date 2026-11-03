@@ -1,5 +1,5 @@
 cask "splice" do
-  version "1.4.4"
+  version "1.4.5"
   sha256 :no_check
 
   url "https://flew.gg/splice/Splice.dmg"
